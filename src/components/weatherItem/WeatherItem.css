@@ -1,0 +1,6 @@
+.city-view-container {
+    display: inline-block;
+    border-radius: 8px;
+    padding: 10px;
+    border: 2px solid #000;
+}
